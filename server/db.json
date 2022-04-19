@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "firstName": "Ninad",
+      "lastName": "Bhoir",
+      "mobile": "7506764530",
+      "email": "ninadbhoir010@gmail.com",
+      "age": "01",
+      "status": 0,
+      "city": "Koperkhairane, Navi Mumbai",
+      "id": 1
+    },
+    {
+      "firstName": "Prasad",
+      "lastName": "divekar",
+      "mobile": "89743287945r987",
+      "email": "atharvabhoir@gmail.com",
+      "age": "34",
+      "status": 1,
+      "city": "Mandangad",
+      "id": 2
+    }
+  ]
+}
